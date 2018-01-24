@@ -20,4 +20,7 @@ Make sure port 6011 is not in use
 Go to url [localhost:6011/game11](http://localhost:6011/game11/)
 
 Login with name: user1, and password: 123
+
+# Further Development
+Instructions to change the game model is found in the [wiki](https://github.com/Tokni/REEEMgame-local/wiki/How-to-change-the-model-of-the-game)
 	
