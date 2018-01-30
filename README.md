@@ -21,6 +21,6 @@ Go to url [localhost:6011/game11](http://localhost:6011/game11/)
 
 Login with name: user1, and password: 123
 
-# Further Development
+# Changing the game model
 Instructions to change the game model is found in the [wiki](https://github.com/ReeemProject/REEEMgame-local/wiki)
 	
